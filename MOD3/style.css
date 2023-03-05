@@ -1,0 +1,114 @@
+div {
+    background: aqua;
+    padding: 20px;
+}
+
+.container {
+    color: crimson;
+    border: 2px solid black;
+}
+
+.container h1{
+    color: black;
+    border: 2px solid black;
+}
+
+#kelas{
+    color: red;
+    border: 2px solid black;
+}
+
+.font-properties{
+    background: crimson;
+}
+
+.font-properties h1{
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+
+.font-properties h2{
+    font-family: 'Arial';
+    font-weight: 500;
+    font-size: 40px;
+    color: aqua;
+
+}
+
+.font-properties p{
+    font-family: 'Calibri';
+    font-weight: 300;
+    font-size: 30px;
+    color: #333;
+}
+
+.list-properties{
+    background: aqua;
+    border: 2px solid black;
+}
+
+.list-properties ol{
+    background: crimson;
+    color: white;
+    list-style-type: upper-roman
+}
+
+.list-properties ul{
+    background: crimson;
+    color: #333;
+    list-style-type: square;
+}
+
+.list-properties li{
+    list-style-type: lower-alpha;
+}
+
+.align-text{
+    background: crimson;
+    border: 2px solid black;
+}
+
+.align-text h1{
+    text-align: center;
+}
+
+.align-text h2{
+    text-align: start;
+}
+
+.align-text p{
+    text-align: end;
+}
+
+.color{
+    background: aqua;
+    border: 2px solid black;
+}
+
+.color h1{
+    color: red;
+    background: black;
+}
+
+.color h2{
+    color: white;
+    background: crimson;
+}
+
+.color p{
+    color: aqua;
+    background: tomato;
+}
+
+.div-span{
+    background: crimson;
+    border: 2px solid black;
+}
+
+.div-span span{
+    color: white;
+    font-weight: 700;
+    background: black;
+}
