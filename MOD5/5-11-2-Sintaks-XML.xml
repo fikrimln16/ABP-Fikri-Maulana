@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone='no' ?>
+<Warga-Telyu>
+    <Pekerjaan = "Mahasiswa">
+        <nama>Fikri Maulana</nama>
+        <ID>1301200239</ID>
+    </Pekerjaan>
+    <Pekerjaan = "Dosen">
+        <nama>Agus Setia </nama>
+        <ID>1312312312</ID>
+    </Pekerjaan>
+<Warga-Telyu>

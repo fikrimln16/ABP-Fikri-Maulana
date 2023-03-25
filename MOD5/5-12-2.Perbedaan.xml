@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Mahasiswa>
+        <Nama>Fikri Maulana</Nama>
+        <ID>1301200239</ID>
+    </Mahasiswa>
+    <Mahasiswa>
+        <Nama>Agus Setia</Nama>
+        <ID>1231231233</ID>
+    </Mahasiswa>
+</root>
